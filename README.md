@@ -28,3 +28,26 @@ Resume-Web-Page/
 │
 ├── index.html
 └── README.md
+
+
+---
+
+## 🎯 Learning Objectives
+- Practice HTML page structure
+- Use headings, paragraphs, and lists effectively
+- Organize content in a professional format
+- Build a basic personal portfolio page
+
+---
+
+## 🔮 Future Improvements
+- Add CSS for better styling
+- Make the resume responsive
+- Add downloadable PDF option
+- Enhance design using icons and layout improvements
+
+---
+
+## 👩‍💻 Author
+Jyotsna Singh  
+Beginner Web Developer
