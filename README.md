@@ -24,3 +24,7 @@ This project is a simple resume web page created using HTML. It presents persona
 ---
 
 ## 📂 Project Structure
+Resume-Web-Page/
+│
+├── index.html
+└── README.md
